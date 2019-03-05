@@ -1,0 +1,7 @@
+{
+  "status" : 503,
+  "code" : "unknown",
+  "requestedURL" : "/extract",
+  "message" : "No workers or all [http://extractor-en:8080, http://extractor-en-2:8080] returned error. Last error had code 500 and message: {\"status\":500,\"code\":\"unknown\",\"requestedURL\":\"/extract\",\"message\":\"Encoding for document [http://www.compottrex.com/one.html] not found.\",\"details\":\"\"}",
+  "details" : null
+}
